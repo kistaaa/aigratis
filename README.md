@@ -1,3 +1,6 @@
+## Só AIs Grátis
+Roteador automático de AIs grátis
+
 ## Inputs
 - prompt.yaml : o seu prompt, com mensagem de sistema incluido
 - models.yaml: lista de provedores e modelos
